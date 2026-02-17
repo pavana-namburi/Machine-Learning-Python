@@ -1,0 +1,8 @@
+Student_ID,Name,Branch,Maths,Science,English,Attendance
+101,pavana,CSE,85,92,88,90
+102,navya,IT,90,,75,85
+103,bhavana,CSE,,80,82,88
+104,prasanna,ECE,78,85,,92
+105,shashank,IT,88,89,90,95
+106,krishna,CSE,65,70,68,75
+107,teja,ECE,92,94,91,98
